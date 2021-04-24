@@ -7,6 +7,5 @@ class Greeter
   end
 end
 
-
-
+I LOVE GIT
 
